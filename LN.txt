@@ -1,2 +1,3 @@
 LN
-Druga linia.txt
+Druga linia
+Trzecia linia
