@@ -1,1 +1,2 @@
 LN
+Druga linia.txt
